@@ -25,6 +25,6 @@ In this challenge, I had to recreate an application, based on a ready-made layou
 
 ## Project layout
 
-![Project layout](https://i.imgur.com/33QShfr.png)
+![Project layout](https://i.imgur.com/zI3c5zq.png)
 
 The project created in Figma is available at this [link](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate).
